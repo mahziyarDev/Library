@@ -1,0 +1,14 @@
+C:\Users\Mahziyar\Desktop\project\Library\Library.Commen\bin\Debug\net6.0\Library.Common.deps.json
+C:\Users\Mahziyar\Desktop\project\Library\Library.Commen\bin\Debug\net6.0\Library.Common.dll
+C:\Users\Mahziyar\Desktop\project\Library\Library.Commen\bin\Debug\net6.0\Library.Common.pdb
+C:\Users\Mahziyar\Desktop\project\Library\Library.Commen\obj\Debug\net6.0\Library.Common.csproj.AssemblyReference.cache
+C:\Users\Mahziyar\Desktop\project\Library\Library.Commen\obj\Debug\net6.0\Library.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahziyar\Desktop\project\Library\Library.Commen\obj\Debug\net6.0\Library.Common.AssemblyInfoInputs.cache
+C:\Users\Mahziyar\Desktop\project\Library\Library.Commen\obj\Debug\net6.0\Library.Common.AssemblyInfo.cs
+C:\Users\Mahziyar\Desktop\project\Library\Library.Commen\obj\Debug\net6.0\Library.Common.csproj.CoreCompileInputs.cache
+C:\Users\Mahziyar\Desktop\project\Library\Library.Commen\obj\Debug\net6.0\Library.Common.dll
+C:\Users\Mahziyar\Desktop\project\Library\Library.Commen\obj\Debug\net6.0\refint\Library.Common.dll
+C:\Users\Mahziyar\Desktop\project\Library\Library.Commen\obj\Debug\net6.0\Library.Common.pdb
+C:\Users\Mahziyar\Desktop\project\Library\Library.Commen\obj\Debug\net6.0\ref\Library.Common.dll
+C:\Users\Mahziyar\Desktop\project\Library\Library.Commen\bin\Debug\net6.0\Library.Common.runtimeconfig.json
+C:\Users\Mahziyar\Desktop\project\Library\Library.Commen\obj\Debug\net6.0\Library.Common.genruntimeconfig.cache

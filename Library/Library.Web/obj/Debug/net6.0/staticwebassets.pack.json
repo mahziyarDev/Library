@@ -1,0 +1,2757 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Library.Web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Library.Web.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\css\\${file-1x}.html",
+      "PackagePath": "staticwebassets\\assets\\css\\${file-1x}.html"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\css\\${file-2x}.html",
+      "PackagePath": "staticwebassets\\assets\\css\\${file-2x}.html"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\css\\aos.css",
+      "PackagePath": "staticwebassets\\assets\\css\\aos.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\css\\button-builder.css",
+      "PackagePath": "staticwebassets\\assets\\css\\button-builder.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\css\\calendar.css",
+      "PackagePath": "staticwebassets\\assets\\css\\calendar.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\css\\chartist.css",
+      "PackagePath": "staticwebassets\\assets\\css\\chartist.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\css\\datatable-extension.css",
+      "PackagePath": "staticwebassets\\assets\\css\\datatable-extension.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\css\\datatables.css",
+      "PackagePath": "staticwebassets\\assets\\css\\datatables.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\css\\date-picker.css",
+      "PackagePath": "staticwebassets\\assets\\css\\date-picker.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\css\\daterange-picker.css",
+      "PackagePath": "staticwebassets\\assets\\css\\daterange-picker.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\css\\dropzone-spritemap.html",
+      "PackagePath": "staticwebassets\\assets\\css\\dropzone-spritemap.html"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\css\\dropzone.css",
+      "PackagePath": "staticwebassets\\assets\\css\\dropzone.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\css\\feather-icon.css",
+      "PackagePath": "staticwebassets\\assets\\css\\feather-icon.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\css\\flag-icon.css",
+      "PackagePath": "staticwebassets\\assets\\css\\flag-icon.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\css\\icofont.css",
+      "PackagePath": "staticwebassets\\assets\\css\\icofont.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\css\\image-cropper.css",
+      "PackagePath": "staticwebassets\\assets\\css\\image-cropper.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\css\\jsgrid.css",
+      "PackagePath": "staticwebassets\\assets\\css\\jsgrid.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\css\\light-1.css",
+      "PackagePath": "staticwebassets\\assets\\css\\light-1.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\css\\mapsjs-ui.css",
+      "PackagePath": "staticwebassets\\assets\\css\\mapsjs-ui.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\css\\owlcarousel.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owlcarousel.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\css\\page-builder.css",
+      "PackagePath": "staticwebassets\\assets\\css\\page-builder.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\css\\photoswipe.css",
+      "PackagePath": "staticwebassets\\assets\\css\\photoswipe.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\css\\preloader.html",
+      "PackagePath": "staticwebassets\\assets\\css\\preloader.html"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\css\\print.css",
+      "PackagePath": "staticwebassets\\assets\\css\\print.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\css\\prism.css",
+      "PackagePath": "staticwebassets\\assets\\css\\prism.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\css\\range-slider.css",
+      "PackagePath": "staticwebassets\\assets\\css\\range-slider.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\css\\rating.css",
+      "PackagePath": "staticwebassets\\assets\\css\\rating.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\assets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\css\\scrollable.css",
+      "PackagePath": "staticwebassets\\assets\\css\\scrollable.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\css\\select2.css",
+      "PackagePath": "staticwebassets\\assets\\css\\select2.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\css\\simple-mde.css",
+      "PackagePath": "staticwebassets\\assets\\css\\simple-mde.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\css\\sticky.css",
+      "PackagePath": "staticwebassets\\assets\\css\\sticky.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\css\\summernote.css",
+      "PackagePath": "staticwebassets\\assets\\css\\summernote.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\css\\sweetalert2.css",
+      "PackagePath": "staticwebassets\\assets\\css\\sweetalert2.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\css\\themify.css",
+      "PackagePath": "staticwebassets\\assets\\css\\themify.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\css\\timepicker.css",
+      "PackagePath": "staticwebassets\\assets\\css\\timepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\css\\todo.css",
+      "PackagePath": "staticwebassets\\assets\\css\\todo.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\css\\tour.css",
+      "PackagePath": "staticwebassets\\assets\\css\\tour.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\css\\tree.css",
+      "PackagePath": "staticwebassets\\assets\\css\\tree.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\css\\vector-map.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vector-map.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\css\\vertical-menu.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vertical-menu.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\css\\whether-icon.css",
+      "PackagePath": "staticwebassets\\assets\\css\\whether-icon.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\fonts\\aviny.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\aviny.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\fonts\\flag-icon\\is.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flag-icon\\is.svg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\fonts\\flag-icon\\nz.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flag-icon\\nz.svg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\fonts\\flag-icon\\um.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flag-icon\\um.svg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\fonts\\flag-icon\\uy.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flag-icon\\uy.svg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\fonts\\font-awesome\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\fonts\\font-awesome\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\fonts\\font-awesome\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\fonts\\font-awesome\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\fonts\\font-awesome\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\fonts\\ico\\icofont.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ico\\icofont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\fonts\\ico\\icofont.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ico\\icofont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\fonts\\ico\\icofont.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ico\\icofont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\fonts\\ico\\icofont.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ico\\icofont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\fonts\\iran.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\iran.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\fonts\\summernote\\summernote.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\summernote\\summernote.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\fonts\\summernote\\summernote.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\summernote\\summernote.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\fonts\\summernote\\summernote.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\summernote\\summernote.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\fonts\\themify\\themify.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\themify\\themify.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\fonts\\themify\\themify.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\themify\\themify.svg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\fonts\\themify\\themify.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\themify\\themify.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\fonts\\themify\\themify.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\themify\\themify.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\fonts\\yekan.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\yekan.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\avtar\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avtar\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\avtar\\16.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avtar\\16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\avtar\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avtar\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\banner\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\banner\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\banner\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\big-lightgallry\\01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\big-lightgallry\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\big-lightgallry\\010.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\big-lightgallry\\010.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\big-lightgallry\\011.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\big-lightgallry\\011.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\big-lightgallry\\012.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\big-lightgallry\\012.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\big-lightgallry\\013.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\big-lightgallry\\013.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\big-lightgallry\\014.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\big-lightgallry\\014.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\big-lightgallry\\015.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\big-lightgallry\\015.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\big-lightgallry\\016.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\big-lightgallry\\016.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\big-lightgallry\\02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\big-lightgallry\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\big-lightgallry\\03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\big-lightgallry\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\big-lightgallry\\04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\big-lightgallry\\04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\big-lightgallry\\05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\big-lightgallry\\05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\big-lightgallry\\06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\big-lightgallry\\06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\big-lightgallry\\07.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\big-lightgallry\\07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\big-lightgallry\\08.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\big-lightgallry\\08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\big-lightgallry\\09.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\big-lightgallry\\09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\big-masonry\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\big-masonry\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\big-masonry\\10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\big-masonry\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\big-masonry\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\big-masonry\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\big-masonry\\12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\big-masonry\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\big-masonry\\13.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\big-masonry\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\big-masonry\\14.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\big-masonry\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\big-masonry\\15.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\big-masonry\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\big-masonry\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\big-masonry\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\big-masonry\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\big-masonry\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\big-masonry\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\big-masonry\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\big-masonry\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\big-masonry\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\big-masonry\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\big-masonry\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\big-masonry\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\big-masonry\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\big-masonry\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\big-masonry\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\big-masonry\\9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\big-masonry\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\bitcoin\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\bitcoin\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\bitcoin\\2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\bitcoin\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\bitcoin\\3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\bitcoin\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\bitcoin\\chat-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bitcoin\\chat-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\bitcoin\\chat-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bitcoin\\chat-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\bitcoin\\market-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bitcoin\\market-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\bitcoin\\market-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bitcoin\\market-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\bitcoin\\market-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bitcoin\\market-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\bitcoin\\market-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bitcoin\\market-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\blog\\12.png",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\blog\\14.png",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\14.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\blog\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\blog\\9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\blog\\blog-5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-5.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\blog\\blog-6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-6.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\blog\\blog-single.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-single.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\blog\\blog.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\blog\\comment.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\comment.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\blog\\img.png",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\img.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\button_builder\\checkbox-sprite.png",
+      "PackagePath": "staticwebassets\\assets\\images\\button_builder\\checkbox-sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\button_builder\\colorpicker_overlay.png",
+      "PackagePath": "staticwebassets\\assets\\images\\button_builder\\colorpicker_overlay.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\button_builder\\colorpicker_select.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\button_builder\\colorpicker_select.gif"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\button_builder\\hex_bg.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\button_builder\\hex_bg.gif"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\button_builder\\rainbow.png",
+      "PackagePath": "staticwebassets\\assets\\images\\button_builder\\rainbow.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\button_builder\\scroll.png",
+      "PackagePath": "staticwebassets\\assets\\images\\button_builder\\scroll.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\button_builder\\select.png",
+      "PackagePath": "staticwebassets\\assets\\images\\button_builder\\select.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\checkout\\paypal.png",
+      "PackagePath": "staticwebassets\\assets\\images\\checkout\\paypal.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\dashboard\\boy-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\dashboard\\boy-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\dashboard\\chrome.png",
+      "PackagePath": "staticwebassets\\assets\\images\\dashboard\\chrome.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\dashboard\\designer.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\dashboard\\designer.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\dashboard\\firefox.png",
+      "PackagePath": "staticwebassets\\assets\\images\\dashboard\\firefox.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\dashboard\\safari.png",
+      "PackagePath": "staticwebassets\\assets\\images\\dashboard\\safari.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\dashboard\\smily.png",
+      "PackagePath": "staticwebassets\\assets\\images\\dashboard\\smily.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\dashboard\\user.png",
+      "PackagePath": "staticwebassets\\assets\\images\\dashboard\\user.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\details_close.png",
+      "PackagePath": "staticwebassets\\assets\\images\\details_close.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\details_open.png",
+      "PackagePath": "staticwebassets\\assets\\images\\details_open.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\ecommerce\\01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\ecommerce\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\ecommerce\\02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\ecommerce\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\ecommerce\\03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\ecommerce\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\ecommerce\\04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\ecommerce\\04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\ecommerce\\05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\ecommerce\\05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\ecommerce\\06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\ecommerce\\06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\ecommerce\\07.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\ecommerce\\07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\ecommerce\\08.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\ecommerce\\08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\ecommerce\\banner.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\ecommerce\\banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\ecommerce\\card.png",
+      "PackagePath": "staticwebassets\\assets\\images\\ecommerce\\card.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\ecommerce\\mastercard.png",
+      "PackagePath": "staticwebassets\\assets\\images\\ecommerce\\mastercard.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\ecommerce\\paypal.png",
+      "PackagePath": "staticwebassets\\assets\\images\\ecommerce\\paypal.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\ecommerce\\product-table-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\ecommerce\\product-table-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\ecommerce\\product-table-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\ecommerce\\product-table-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\ecommerce\\product-table-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\ecommerce\\product-table-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\ecommerce\\product-table-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\ecommerce\\product-table-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\ecommerce\\product-table-5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\ecommerce\\product-table-5.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\ecommerce\\product-table-6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\ecommerce\\product-table-6.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\ecommerce\\visa.png",
+      "PackagePath": "staticwebassets\\assets\\images\\ecommerce\\visa.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\email-template\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\email-template\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\email-template\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\email-template\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\email-template\\10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\email-template\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\email-template\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\email-template\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\email-template\\12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\email-template\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\email-template\\2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\email-template\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\email-template\\3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\email-template\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\email-template\\4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\email-template\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\email-template\\5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\email-template\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\email-template\\6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\email-template\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\email-template\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\email-template\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\email-template\\7.png",
+      "PackagePath": "staticwebassets\\assets\\images\\email-template\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\email-template\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\email-template\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\email-template\\8.png",
+      "PackagePath": "staticwebassets\\assets\\images\\email-template\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\email-template\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\email-template\\banner-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\email-template\\banner.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\email-template\\banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\email-template\\cosmetic.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\email-template\\cosmetic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\email-template\\delivery-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\email-template\\delivery-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\email-template\\delivery.png",
+      "PackagePath": "staticwebassets\\assets\\images\\email-template\\delivery.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\email-template\\facebook.png",
+      "PackagePath": "staticwebassets\\assets\\images\\email-template\\facebook.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\email-template\\gplus.png",
+      "PackagePath": "staticwebassets\\assets\\images\\email-template\\gplus.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\email-template\\linkedin.png",
+      "PackagePath": "staticwebassets\\assets\\images\\email-template\\linkedin.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\email-template\\order-success.png",
+      "PackagePath": "staticwebassets\\assets\\images\\email-template\\order-success.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\email-template\\pinterest.png",
+      "PackagePath": "staticwebassets\\assets\\images\\email-template\\pinterest.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\email-template\\slider.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\email-template\\slider.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\email-template\\space.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\email-template\\space.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\email-template\\success.png",
+      "PackagePath": "staticwebassets\\assets\\images\\email-template\\success.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\email-template\\twitter.png",
+      "PackagePath": "staticwebassets\\assets\\images\\email-template\\twitter.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\email-template\\youtube.png",
+      "PackagePath": "staticwebassets\\assets\\images\\email-template\\youtube.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\email\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\email\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\email\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\email\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\email\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\email\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\endless-logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\endless-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\faq\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faq\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\faq\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faq\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\faq\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faq\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\faq\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faq\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\faq\\learning-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\faq\\learning-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\icon-tree.html",
+      "PackagePath": "staticwebassets\\assets\\images\\icon-tree.html"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\job-search\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\job-search\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\job-search\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\job-search\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\job-search\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\job-search\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\job-search\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\job-search\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\job-search\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\job-search\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\job-search\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\job-search\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\js-grid.png",
+      "PackagePath": "staticwebassets\\assets\\images\\js-grid.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\landing\\1-gallery.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\1-gallery.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\landing\\1-title.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\1-title.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\landing\\2-first_section - Copy.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\2-first_section - Copy.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\landing\\2-first_section.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\2-first_section.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\landing\\2-gallery.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\2-gallery.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\landing\\2-title.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\2-title.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\landing\\3-first_section - Copy.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\3-first_section - Copy.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\landing\\3-first_section.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\3-first_section.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\landing\\3-gallery.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\3-gallery.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\landing\\3-title.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\3-title.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\landing\\4-gallery.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\4-gallery.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\landing\\Blog-app.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\Blog-app.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\landing\\Chat-app.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\Chat-app.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\landing\\Email-template_background.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\Email-template_background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\landing\\New-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\New-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\landing\\Project-dashboard.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\Project-dashboard.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\landing\\To-Do-app.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\To-Do-app.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\landing\\University-dashboard.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\University-dashboard.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\landing\\background.html",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\background.html"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\landing\\bg_gallery.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\bg_gallery.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\landing\\bitcoin-dashboard.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\bitcoin-dashboard.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\landing\\box-Creative-demo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\box-Creative-demo.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\landing\\compact-Creative-demo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\compact-Creative-demo.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\landing\\dark-Creative-demo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\dark-Creative-demo.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\landing\\default-dashboard.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\default-dashboard.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\landing\\ecommerce-app.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\ecommerce-app.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\landing\\ecommerce-dashboard.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\ecommerce-dashboard.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\landing\\features-1-first_section.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\features-1-first_section.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\landing\\features-2-first_section.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\features-2-first_section.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\landing\\footer-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\footer-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\landing\\footer-logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\footer-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\landing\\home\\pattern.html",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\home\\pattern.html"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\landing\\icon-navbar-Creative-demo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\icon-navbar-Creative-demo.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\landing\\job-search-app.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\job-search-app.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\landing\\knowlagebase-app.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\knowlagebase-app.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\landing\\light-Creative-demo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\light-Creative-demo.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\landing\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\landing\\mail-app.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\mail-app.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\landing\\main-first_section.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\main-first_section.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\landing\\main-gallery.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\main-gallery.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\landing\\rtl-Creative-demo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\rtl-Creative-demo.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\landing\\second_img.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\second_img.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\landing\\server-dashboard.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\server-dashboard.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\landing\\social-app.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\social-app.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\landing\\support-ticket-app.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\support-ticket-app.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\landing\\svg_2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\svg_2.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\landing\\widget.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\widget.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\landing\\widgets-bck.html",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\widgets-bck.html"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\lightgallry\\01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\lightgallry\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\lightgallry\\010.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\lightgallry\\010.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\lightgallry\\011.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\lightgallry\\011.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\lightgallry\\012.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\lightgallry\\012.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\lightgallry\\013.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\lightgallry\\013.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\lightgallry\\014.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\lightgallry\\014.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\lightgallry\\015.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\lightgallry\\015.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\lightgallry\\016.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\lightgallry\\016.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\lightgallry\\02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\lightgallry\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\lightgallry\\03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\lightgallry\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\lightgallry\\04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\lightgallry\\04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\lightgallry\\05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\lightgallry\\05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\lightgallry\\06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\lightgallry\\06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\lightgallry\\07.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\lightgallry\\07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\lightgallry\\08.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\lightgallry\\08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\lightgallry\\09.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\lightgallry\\09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\lightgallry\\default-skin.png",
+      "PackagePath": "staticwebassets\\assets\\images\\lightgallry\\default-skin.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\logo\\compact-logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\compact-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\masonry\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\masonry\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\masonry\\10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\masonry\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\masonry\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\masonry\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\masonry\\12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\masonry\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\masonry\\13.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\masonry\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\masonry\\14.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\masonry\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\masonry\\15.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\masonry\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\masonry\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\masonry\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\masonry\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\masonry\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\masonry\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\masonry\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\masonry\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\masonry\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\masonry\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\masonry\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\masonry\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\masonry\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\masonry\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\masonry\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\masonry\\9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\masonry\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\other-images\\auth-bg-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\other-images\\auth-bg-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\other-images\\bg-profile.png",
+      "PackagePath": "staticwebassets\\assets\\images\\other-images\\bg-profile.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\other-images\\calender-bg.png",
+      "PackagePath": "staticwebassets\\assets\\images\\other-images\\calender-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\other-images\\caller.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\other-images\\caller.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\other-images\\clock-face.png",
+      "PackagePath": "staticwebassets\\assets\\images\\other-images\\clock-face.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\other-images\\coming-soon-Logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\other-images\\coming-soon-Logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\other-images\\coming-soon-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\other-images\\coming-soon-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\other-images\\img-cropper.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\other-images\\img-cropper.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\other-images\\logo-login.png",
+      "PackagePath": "staticwebassets\\assets\\images\\other-images\\logo-login.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\other-images\\maintenance-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\other-images\\maintenance-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\other-images\\mobile-clock-wallpaper.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\other-images\\mobile-clock-wallpaper.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\other-images\\paypal.png",
+      "PackagePath": "staticwebassets\\assets\\images\\other-images\\paypal.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\other-images\\profile-style-img.png",
+      "PackagePath": "staticwebassets\\assets\\images\\other-images\\profile-style-img.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\other-images\\profile-style-img3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\other-images\\profile-style-img3.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\other-images\\receiver-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\other-images\\receiver-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\other-images\\sad.png",
+      "PackagePath": "staticwebassets\\assets\\images\\other-images\\sad.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\product\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\product\\10.png",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\product\\11.png",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\product\\12.png",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\product\\13.png",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\13.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\product\\14.png",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\14.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\product\\15.png",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\15.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\product\\2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\product\\3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\product\\4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\range-slider\\sprite-skin-modern.png",
+      "PackagePath": "staticwebassets\\assets\\images\\range-slider\\sprite-skin-modern.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\server\\hexgon.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\server\\hexgon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\sidebar-image\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\sidebar-image\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\sidebar-image\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\sidebar-image\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\sidebar-image\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\sidebar-image\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\sidebar-image\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\sidebar-image\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\sidebar-image\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\sidebar-image\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\sidebar-image\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\sidebar-image\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\sidebar-pattern\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\sidebar-pattern\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\sidebar-pattern\\2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\sidebar-pattern\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\sidebar-pattern\\3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\sidebar-pattern\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\sidebar-pattern\\4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\sidebar-pattern\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\sidebar-pattern\\5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\sidebar-pattern\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\sidebar-pattern\\6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\sidebar-pattern\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\slider-auto-width\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-auto-width\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\slider-auto-width\\12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-auto-width\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\slider-auto-width\\13.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-auto-width\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\slider-auto-width\\14.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-auto-width\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\slider-auto-width\\15.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-auto-width\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\slider\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\slider\\10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\slider\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\slider\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\slider\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\slider\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\slider\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\slider\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\slider\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\slider\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\slider\\9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\smiley.png",
+      "PackagePath": "staticwebassets\\assets\\images\\smiley.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\social-app\\post-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\social-app\\post-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\social-app\\post-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\social-app\\post-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\social-app\\post-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\social-app\\post-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\social-app\\post-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\social-app\\post-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\social-app\\post-5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\social-app\\post-5.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\social-app\\post-6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\social-app\\post-6.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\social-app\\post-7.png",
+      "PackagePath": "staticwebassets\\assets\\images\\social-app\\post-7.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\social-app\\post-8.png",
+      "PackagePath": "staticwebassets\\assets\\images\\social-app\\post-8.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\social-app\\post-9.png",
+      "PackagePath": "staticwebassets\\assets\\images\\social-app\\post-9.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\social-app\\social-image.png",
+      "PackagePath": "staticwebassets\\assets\\images\\social-app\\social-image.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\social-app\\timeline-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\social-app\\timeline-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\social-app\\timeline-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\social-app\\timeline-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\social-app\\timeline-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\social-app\\timeline-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\social-app\\timeline-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\social-app\\timeline-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\sort_asc.png",
+      "PackagePath": "staticwebassets\\assets\\images\\sort_asc.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\sort_asc_disabled.png",
+      "PackagePath": "staticwebassets\\assets\\images\\sort_asc_disabled.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\sort_both.png",
+      "PackagePath": "staticwebassets\\assets\\images\\sort_both.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\sort_desc.png",
+      "PackagePath": "staticwebassets\\assets\\images\\sort_desc.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\sort_desc_disabled.png",
+      "PackagePath": "staticwebassets\\assets\\images\\sort_desc_disabled.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\throbber.html",
+      "PackagePath": "staticwebassets\\assets\\images\\throbber.html"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\tree-1.html",
+      "PackagePath": "staticwebassets\\assets\\images\\tree-1.html"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\tree\\32px.png",
+      "PackagePath": "staticwebassets\\assets\\images\\tree\\32px.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\tree\\40px.png",
+      "PackagePath": "staticwebassets\\assets\\images\\tree\\40px.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\tree\\throbber.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\tree\\throbber.gif"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\university\\bio-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\university\\bio-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\university\\bio-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\university\\bio-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\university\\chart-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\university\\chart-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\university\\chart-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\university\\chart-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\university\\chart-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\university\\chart-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\university\\chart-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\university\\chart-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\university\\math-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\university\\math-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\university\\math-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\university\\math-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\university\\round.png",
+      "PackagePath": "staticwebassets\\assets\\images\\university\\round.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\user-card\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\user-card\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\user-card\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\user-card\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\user-card\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\user-card\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\user-card\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\user-card\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\user-card\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\user-card\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\user-card\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\user-card\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\user\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\user\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\user\\10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\user\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\user\\11.png",
+      "PackagePath": "staticwebassets\\assets\\images\\user\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\user\\12.png",
+      "PackagePath": "staticwebassets\\assets\\images\\user\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\user\\14.png",
+      "PackagePath": "staticwebassets\\assets\\images\\user\\14.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\user\\15.png",
+      "PackagePath": "staticwebassets\\assets\\images\\user\\15.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\user\\16.png",
+      "PackagePath": "staticwebassets\\assets\\images\\user\\16.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\user\\2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\user\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\user\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\user\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\user\\3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\user\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\user\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\user\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\user\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\user\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\user\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\user\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\user\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\user\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\user\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\user\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\user\\9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\user\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\images\\user\\user.png",
+      "PackagePath": "staticwebassets\\assets\\images\\user\\user.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\animation\\animate-custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\animation\\animate-custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\animation\\aos\\aos-init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\animation\\aos\\aos-init.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\animation\\aos\\aos.js",
+      "PackagePath": "staticwebassets\\assets\\js\\animation\\aos\\aos.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\animation\\scroll-reveal\\reveal-custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\animation\\scroll-reveal\\reveal-custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\animation\\scroll-reveal\\scrollreveal.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\animation\\scroll-reveal\\scrollreveal.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\animation\\tilt\\tilt-custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\animation\\tilt\\tilt-custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\animation\\tilt\\tilt.jquery.js",
+      "PackagePath": "staticwebassets\\assets\\js\\animation\\tilt\\tilt.jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\animation\\wow\\wow-init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\animation\\wow\\wow-init.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\animation\\wow\\wow.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\animation\\wow\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\bootstrap\\bootstrap.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\bootstrap\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\button-builder\\clipboard.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\button-builder\\clipboard.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\button-builder\\colorpicker.js",
+      "PackagePath": "staticwebassets\\assets\\js\\button-builder\\colorpicker.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\button-builder\\extend-1.0.js",
+      "PackagePath": "staticwebassets\\assets\\js\\button-builder\\extend-1.0.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\button-builder\\generator.js",
+      "PackagePath": "staticwebassets\\assets\\js\\button-builder\\generator.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\button-tooltip-custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\button-tooltip-custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\calendar\\fullcalendar-custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\calendar\\fullcalendar-custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\calendar\\fullcalendar.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\calendar\\fullcalendar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\calendar\\moment.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\calendar\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\chart-widget.js",
+      "PackagePath": "staticwebassets\\assets\\js\\chart-widget.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\chart\\chartist\\chartist-custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\chart\\chartist\\chartist-custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\chart\\chartist\\chartist.js",
+      "PackagePath": "staticwebassets\\assets\\js\\chart\\chartist\\chartist.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\chart\\chartjs\\chart.custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\chart\\chartjs\\chart.custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\chart\\chartjs\\chart.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\chart\\chartjs\\chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\chart\\flot-chart\\excanvas.js",
+      "PackagePath": "staticwebassets\\assets\\js\\chart\\flot-chart\\excanvas.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\chart\\flot-chart\\flot-script.js",
+      "PackagePath": "staticwebassets\\assets\\js\\chart\\flot-chart\\flot-script.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\chart\\flot-chart\\jquery.flot.categories.js",
+      "PackagePath": "staticwebassets\\assets\\js\\chart\\flot-chart\\jquery.flot.categories.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\chart\\flot-chart\\jquery.flot.js",
+      "PackagePath": "staticwebassets\\assets\\js\\chart\\flot-chart\\jquery.flot.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\chart\\flot-chart\\jquery.flot.pie.js",
+      "PackagePath": "staticwebassets\\assets\\js\\chart\\flot-chart\\jquery.flot.pie.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\chart\\flot-chart\\jquery.flot.stack.js",
+      "PackagePath": "staticwebassets\\assets\\js\\chart\\flot-chart\\jquery.flot.stack.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\chart\\flot-chart\\jquery.flot.symbol.js",
+      "PackagePath": "staticwebassets\\assets\\js\\chart\\flot-chart\\jquery.flot.symbol.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\chart\\flot-chart\\jquery.flot.time.js",
+      "PackagePath": "staticwebassets\\assets\\js\\chart\\flot-chart\\jquery.flot.time.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\chart\\google\\google-chart-loader.js",
+      "PackagePath": "staticwebassets\\assets\\js\\chart\\google\\google-chart-loader.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\chart\\google\\google-chart.js",
+      "PackagePath": "staticwebassets\\assets\\js\\chart\\google\\google-chart.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\chart\\knob\\knob-chart.js",
+      "PackagePath": "staticwebassets\\assets\\js\\chart\\knob\\knob-chart.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\chart\\knob\\knob.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\chart\\knob\\knob.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\chart\\morris-chart\\morris-script.js",
+      "PackagePath": "staticwebassets\\assets\\js\\chart\\morris-chart\\morris-script.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\chart\\morris-chart\\morris.js",
+      "PackagePath": "staticwebassets\\assets\\js\\chart\\morris-chart\\morris.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\chart\\morris-chart\\prettify.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\chart\\morris-chart\\prettify.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\chart\\morris-chart\\raphael.js",
+      "PackagePath": "staticwebassets\\assets\\js\\chart\\morris-chart\\raphael.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\chart\\peity-chart\\peity-custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\chart\\peity-chart\\peity-custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\chart\\peity-chart\\peity.jquery.js",
+      "PackagePath": "staticwebassets\\assets\\js\\chart\\peity-chart\\peity.jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\chart\\sparkline\\sparkline-script.js",
+      "PackagePath": "staticwebassets\\assets\\js\\chart\\sparkline\\sparkline-script.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\chart\\sparkline\\sparkline.js",
+      "PackagePath": "staticwebassets\\assets\\js\\chart\\sparkline\\sparkline.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\chat-menu.js",
+      "PackagePath": "staticwebassets\\assets\\js\\chat-menu.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\clipboard\\clipboard-script.js",
+      "PackagePath": "staticwebassets\\assets\\js\\clipboard\\clipboard-script.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\clipboard\\clipboard.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\clipboard\\clipboard.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\compact-small-button.js",
+      "PackagePath": "staticwebassets\\assets\\js\\compact-small-button.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\config.js",
+      "PackagePath": "staticwebassets\\assets\\js\\config.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\countdown.js",
+      "PackagePath": "staticwebassets\\assets\\js\\countdown.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\counter\\counter-custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\counter\\counter-custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\counter\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\counter\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\counter\\jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\counter\\jquery.waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\custom-card\\custom-card.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom-card\\custom-card.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\dashboard\\bitcoin-custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\dashboard\\bitcoin-custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\dashboard\\dashboard-ecommerce\\chart.custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\dashboard\\dashboard-ecommerce\\chart.custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\dashboard\\dashboard-ecommerce\\morris-script.js",
+      "PackagePath": "staticwebassets\\assets\\js\\dashboard\\dashboard-ecommerce\\morris-script.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\dashboard\\dashboard-ecommerce\\owl-carousel.js",
+      "PackagePath": "staticwebassets\\assets\\js\\dashboard\\dashboard-ecommerce\\owl-carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\dashboard\\default.js",
+      "PackagePath": "staticwebassets\\assets\\js\\dashboard\\default.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\dashboard\\project-custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\dashboard\\project-custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\dashboard\\server-custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\dashboard\\server-custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\dashboard\\university-custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\dashboard\\university-custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\datatable\\datatable-extension\\buttons.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\datatable\\datatable-extension\\buttons.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\datatable\\datatable-extension\\buttons.colVis.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\datatable\\datatable-extension\\buttons.colVis.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\datatable\\datatable-extension\\buttons.html5.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\datatable\\datatable-extension\\buttons.html5.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\datatable\\datatable-extension\\buttons.print.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\datatable\\datatable-extension\\buttons.print.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\datatable\\datatable-extension\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\datatable\\datatable-extension\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\datatable\\datatable-extension\\dataTables.autoFill.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\datatable\\datatable-extension\\dataTables.autoFill.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\datatable\\datatable-extension\\dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\datatable\\datatable-extension\\dataTables.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\datatable\\datatable-extension\\dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\datatable\\datatable-extension\\dataTables.buttons.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\datatable\\datatable-extension\\dataTables.colReorder.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\datatable\\datatable-extension\\dataTables.colReorder.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\datatable\\datatable-extension\\dataTables.fixedHeader.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\datatable\\datatable-extension\\dataTables.fixedHeader.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\datatable\\datatable-extension\\dataTables.keyTable.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\datatable\\datatable-extension\\dataTables.keyTable.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\datatable\\datatable-extension\\dataTables.responsive.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\datatable\\datatable-extension\\dataTables.responsive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\datatable\\datatable-extension\\dataTables.rowReorder.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\datatable\\datatable-extension\\dataTables.rowReorder.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\datatable\\datatable-extension\\dataTables.scroller.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\datatable\\datatable-extension\\dataTables.scroller.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\datatable\\datatable-extension\\dataTables.select.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\datatable\\datatable-extension\\dataTables.select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\datatable\\datatable-extension\\jszip.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\datatable\\datatable-extension\\jszip.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\datatable\\datatable-extension\\pdfmake.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\datatable\\datatable-extension\\pdfmake.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\datatable\\datatable-extension\\responsive.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\datatable\\datatable-extension\\responsive.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\datatable\\datatable-extension\\vfs_fonts.js",
+      "PackagePath": "staticwebassets\\assets\\js\\datatable\\datatable-extension\\vfs_fonts.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\datatable\\datatables\\datatable.custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\datatable\\datatables\\datatable.custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\datatable\\datatables\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\datatable\\datatables\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\datepicker\\date-picker\\datepicker.custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\datepicker\\date-picker\\datepicker.custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\datepicker\\date-picker\\datepicker.en.js",
+      "PackagePath": "staticwebassets\\assets\\js\\datepicker\\date-picker\\datepicker.en.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\datepicker\\date-picker\\datepicker.js",
+      "PackagePath": "staticwebassets\\assets\\js\\datepicker\\date-picker\\datepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\datepicker\\date-time-picker\\datetimepicker.custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\datepicker\\date-time-picker\\datetimepicker.custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\datepicker\\date-time-picker\\moment.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\datepicker\\date-time-picker\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\datepicker\\date-time-picker\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\datepicker\\date-time-picker\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\datepicker\\daterange-picker\\daterange-picker.custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\datepicker\\daterange-picker\\daterange-picker.custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\datepicker\\daterange-picker\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\assets\\js\\datepicker\\daterange-picker\\daterangepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\datepicker\\daterange-picker\\moment.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\datepicker\\daterange-picker\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\dragable\\sortable-custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\dragable\\sortable-custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\dragable\\sortable.js",
+      "PackagePath": "staticwebassets\\assets\\js\\dragable\\sortable.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\dropzone\\dropzone-script.js",
+      "PackagePath": "staticwebassets\\assets\\js\\dropzone\\dropzone-script.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\dropzone\\dropzone.js",
+      "PackagePath": "staticwebassets\\assets\\js\\dropzone\\dropzone.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\ecommerce.js",
+      "PackagePath": "staticwebassets\\assets\\js\\ecommerce.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\editor\\ace-editor\\ace-custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\editor\\ace-editor\\ace-custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\editor\\ace-editor\\ace.js",
+      "PackagePath": "staticwebassets\\assets\\js\\editor\\ace-editor\\ace.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\editor\\ace-editor\\mode-css.js",
+      "PackagePath": "staticwebassets\\assets\\js\\editor\\ace-editor\\mode-css.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\editor\\ace-editor\\mode-html.js",
+      "PackagePath": "staticwebassets\\assets\\js\\editor\\ace-editor\\mode-html.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\editor\\ace-editor\\mode-javascript.js",
+      "PackagePath": "staticwebassets\\assets\\js\\editor\\ace-editor\\mode-javascript.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\editor\\ace-editor\\mode-php.js",
+      "PackagePath": "staticwebassets\\assets\\js\\editor\\ace-editor\\mode-php.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\editor\\ace-editor\\theme-monokai.js",
+      "PackagePath": "staticwebassets\\assets\\js\\editor\\ace-editor\\theme-monokai.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\editor\\ace-editor\\worker-css.js",
+      "PackagePath": "staticwebassets\\assets\\js\\editor\\ace-editor\\worker-css.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\editor\\ace-editor\\worker-html.js",
+      "PackagePath": "staticwebassets\\assets\\js\\editor\\ace-editor\\worker-html.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\editor\\ace-editor\\worker-javascript.js",
+      "PackagePath": "staticwebassets\\assets\\js\\editor\\ace-editor\\worker-javascript.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\editor\\ace-editor\\worker-php.js",
+      "PackagePath": "staticwebassets\\assets\\js\\editor\\ace-editor\\worker-php.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\editor\\ckeditor\\adapters\\jquery.js",
+      "PackagePath": "staticwebassets\\assets\\js\\editor\\ckeditor\\adapters\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\editor\\ckeditor\\ckeditor.custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\editor\\ckeditor\\ckeditor.custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\editor\\ckeditor\\ckeditor.js",
+      "PackagePath": "staticwebassets\\assets\\js\\editor\\ckeditor\\ckeditor.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\editor\\ckeditor\\styles.js",
+      "PackagePath": "staticwebassets\\assets\\js\\editor\\ckeditor\\styles.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\editor\\simple-mde\\simplemde.custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\editor\\simple-mde\\simplemde.custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\editor\\simple-mde\\simplemde.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\editor\\simple-mde\\simplemde.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\editor\\summernote\\summernote.custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\editor\\summernote\\summernote.custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\editor\\summernote\\summernote.js",
+      "PackagePath": "staticwebassets\\assets\\js\\editor\\summernote\\summernote.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\email-app.js",
+      "PackagePath": "staticwebassets\\assets\\js\\email-app.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\form-builder\\form-builder-1\\main-built.js",
+      "PackagePath": "staticwebassets\\assets\\js\\form-builder\\form-builder-1\\main-built.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\form-builder\\form-builder-1\\require.js",
+      "PackagePath": "staticwebassets\\assets\\js\\form-builder\\form-builder-1\\require.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\form-builder\\form-builder-2\\beautifyhtml.js",
+      "PackagePath": "staticwebassets\\assets\\js\\form-builder\\form-builder-2\\beautifyhtml.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\form-builder\\form-builder-2\\form-builder-2.js",
+      "PackagePath": "staticwebassets\\assets\\js\\form-builder\\form-builder-2\\form-builder-2.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\form-validation-custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\form-validation-custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\form-wizard\\form-wizard-five.js",
+      "PackagePath": "staticwebassets\\assets\\js\\form-wizard\\form-wizard-five.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\form-wizard\\form-wizard-three.js",
+      "PackagePath": "staticwebassets\\assets\\js\\form-wizard\\form-wizard-three.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\form-wizard\\form-wizard-two.js",
+      "PackagePath": "staticwebassets\\assets\\js\\form-wizard\\form-wizard-two.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\form-wizard\\form-wizard.js",
+      "PackagePath": "staticwebassets\\assets\\js\\form-wizard\\form-wizard.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\form-wizard\\jquery.backstretch.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\form-wizard\\jquery.backstretch.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\fullscreen.js",
+      "PackagePath": "staticwebassets\\assets\\js\\fullscreen.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\general-widget.js",
+      "PackagePath": "staticwebassets\\assets\\js\\general-widget.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\height-equal.js",
+      "PackagePath": "staticwebassets\\assets\\js\\height-equal.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\hide-on-scroll.js",
+      "PackagePath": "staticwebassets\\assets\\js\\hide-on-scroll.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\icons\\feather-icon\\feather-icon-clipart.js",
+      "PackagePath": "staticwebassets\\assets\\js\\icons\\feather-icon\\feather-icon-clipart.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\icons\\feather-icon\\feather-icon.js",
+      "PackagePath": "staticwebassets\\assets\\js\\icons\\feather-icon\\feather-icon.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\icons\\feather-icon\\feather.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\icons\\feather-icon\\feather.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\icons\\flag-icon-clipart.js",
+      "PackagePath": "staticwebassets\\assets\\js\\icons\\flag-icon-clipart.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\icons\\icon-clipart.js",
+      "PackagePath": "staticwebassets\\assets\\js\\icons\\icon-clipart.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\icons\\icons-notify.js",
+      "PackagePath": "staticwebassets\\assets\\js\\icons\\icons-notify.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\icons\\whether-icon-clipart.js",
+      "PackagePath": "staticwebassets\\assets\\js\\icons\\whether-icon-clipart.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\image-cropper\\cropper-main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\image-cropper\\cropper-main.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\image-cropper\\cropper.js",
+      "PackagePath": "staticwebassets\\assets\\js\\image-cropper\\cropper.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\internationalization\\language-picker.js",
+      "PackagePath": "staticwebassets\\assets\\js\\internationalization\\language-picker.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\isotope.pkgd.js",
+      "PackagePath": "staticwebassets\\assets\\js\\isotope.pkgd.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\jarallax_libs\\libs.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jarallax_libs\\libs.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\jquery.drilldown.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.drilldown.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\jquery.ui.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\jsgrid\\griddata.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jsgrid\\griddata.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\jsgrid\\jsgrid.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jsgrid\\jsgrid.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\jsgrid\\jsgrid.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jsgrid\\jsgrid.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\landing_sticky.js",
+      "PackagePath": "staticwebassets\\assets\\js\\landing_sticky.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\map-js\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\map-js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\map-js\\mapsjs-core.js",
+      "PackagePath": "staticwebassets\\assets\\js\\map-js\\mapsjs-core.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\map-js\\mapsjs-mapevents.js",
+      "PackagePath": "staticwebassets\\assets\\js\\map-js\\mapsjs-mapevents.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\map-js\\mapsjs-service.js",
+      "PackagePath": "staticwebassets\\assets\\js\\map-js\\mapsjs-service.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\map-js\\mapsjs-ui.js",
+      "PackagePath": "staticwebassets\\assets\\js\\map-js\\mapsjs-ui.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\masonry-gallery.js",
+      "PackagePath": "staticwebassets\\assets\\js\\masonry-gallery.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\megamenu.js",
+      "PackagePath": "staticwebassets\\assets\\js\\megamenu.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\modal-animated.js",
+      "PackagePath": "staticwebassets\\assets\\js\\modal-animated.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\modernizr.js",
+      "PackagePath": "staticwebassets\\assets\\js\\modernizr.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\notify\\bootstrap-notify.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\notify\\bootstrap-notify.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\notify\\index.js",
+      "PackagePath": "staticwebassets\\assets\\js\\notify\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\notify\\notify-script.js",
+      "PackagePath": "staticwebassets\\assets\\js\\notify\\notify-script.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\owlcarousel\\owl-custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owlcarousel\\owl-custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\page-builder\\jquery.grideditor.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\page-builder\\jquery.grideditor.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\page-builder\\page-builder-custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\page-builder\\page-builder-custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\photoswipe\\photoswipe-ui-default.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\photoswipe\\photoswipe-ui-default.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\photoswipe\\photoswipe.js",
+      "PackagePath": "staticwebassets\\assets\\js\\photoswipe\\photoswipe.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\photoswipe\\photoswipe.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\photoswipe\\photoswipe.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\popover-custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\popover-custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\print.js",
+      "PackagePath": "staticwebassets\\assets\\js\\print.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\prism\\prism.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\prism\\prism.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\product-list-custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\product-list-custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\product-tab.js",
+      "PackagePath": "staticwebassets\\assets\\js\\product-tab.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\radial-chart-tooltip.js",
+      "PackagePath": "staticwebassets\\assets\\js\\radial-chart-tooltip.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\range-slider\\ion.rangeSlider.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\range-slider\\ion.rangeSlider.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\range-slider\\rangeslider-script.js",
+      "PackagePath": "staticwebassets\\assets\\js\\range-slider\\rangeslider-script.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\rating\\jquery.barrating.js",
+      "PackagePath": "staticwebassets\\assets\\js\\rating\\jquery.barrating.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\rating\\rating-script.js",
+      "PackagePath": "staticwebassets\\assets\\js\\rating\\rating-script.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\script.js",
+      "PackagePath": "staticwebassets\\assets\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\scrollable\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\scrollable\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\scrollable\\scrollable-custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\scrollable\\scrollable-custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\scrollpy_landing.js",
+      "PackagePath": "staticwebassets\\assets\\js\\scrollpy_landing.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\select2\\select2-custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\select2\\select2-custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\select2\\select2.full.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\select2\\select2.full.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\sidebar-menu.js",
+      "PackagePath": "staticwebassets\\assets\\js\\sidebar-menu.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\sticky\\sticky.js",
+      "PackagePath": "staticwebassets\\assets\\js\\sticky\\sticky.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\support-ticket-custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\support-ticket-custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\sweet-alert\\app.js",
+      "PackagePath": "staticwebassets\\assets\\js\\sweet-alert\\app.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\sweet-alert\\sweetalert.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\sweet-alert\\sweetalert.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\theme-customizer\\customizer.js",
+      "PackagePath": "staticwebassets\\assets\\js\\theme-customizer\\customizer.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\time-picker\\clockpicker.js",
+      "PackagePath": "staticwebassets\\assets\\js\\time-picker\\clockpicker.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\time-picker\\highlight.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\time-picker\\highlight.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\time-picker\\jquery-clockpicker.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\time-picker\\jquery-clockpicker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\timeline\\timeline-v-1\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\timeline\\timeline-v-1\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\timeline\\timeline-v-2\\jquery.timeliny.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\timeline\\timeline-v-2\\jquery.timeliny.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\timeline\\timeline-v-2\\timeline-v-2-custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\timeline\\timeline-v-2\\timeline-v-2-custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\todo\\todo.js",
+      "PackagePath": "staticwebassets\\assets\\js\\todo\\todo.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\tooltip-init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\tooltip-init.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\touchspin\\input-groups.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\touchspin\\input-groups.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\touchspin\\touchspin.js",
+      "PackagePath": "staticwebassets\\assets\\js\\touchspin\\touchspin.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\touchspin\\vendors.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\touchspin\\vendors.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\tour\\intro-init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\tour\\intro-init.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\tour\\intro.js",
+      "PackagePath": "staticwebassets\\assets\\js\\tour\\intro.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\tree\\jstree.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\tree\\jstree.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\tree\\tree.js",
+      "PackagePath": "staticwebassets\\assets\\js\\tree\\tree.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\typeahead-search\\handlebars.js",
+      "PackagePath": "staticwebassets\\assets\\js\\typeahead-search\\handlebars.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\typeahead-search\\typeahead-custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\typeahead-search\\typeahead-custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\typeahead\\handlebars.js",
+      "PackagePath": "staticwebassets\\assets\\js\\typeahead\\handlebars.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\typeahead\\typeahead.bundle.js",
+      "PackagePath": "staticwebassets\\assets\\js\\typeahead\\typeahead.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\typeahead\\typeahead.custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\typeahead\\typeahead.custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\vector-map\\jquery-jvectormap-2.0.2.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vector-map\\jquery-jvectormap-2.0.2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\vector-map\\map-vector.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vector-map\\map-vector.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\vector-map\\map\\jquery-jvectormap-asia-mill.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vector-map\\map\\jquery-jvectormap-asia-mill.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\vector-map\\map\\jquery-jvectormap-au-mill.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vector-map\\map\\jquery-jvectormap-au-mill.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\vector-map\\map\\jquery-jvectormap-chicago-mill-en.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vector-map\\map\\jquery-jvectormap-chicago-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\vector-map\\map\\jquery-jvectormap-in-mill.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vector-map\\map\\jquery-jvectormap-in-mill.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\vector-map\\map\\jquery-jvectormap-uk-mill-en.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vector-map\\map\\jquery-jvectormap-uk-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\vector-map\\map\\jquery-jvectormap-us-aea-en.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vector-map\\map\\jquery-jvectormap-us-aea-en.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\vector-map\\map\\jquery-jvectormap-world-mill-en.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vector-map\\map\\jquery-jvectormap-world-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\assets\\js\\vertical-menu.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vertical-menu.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Library.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Library.Web.props",
+      "PackagePath": "build\\Library.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Library.Web.props",
+      "PackagePath": "buildMultiTargeting\\Library.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Library.Web.props",
+      "PackagePath": "buildTransitive\\Library.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
