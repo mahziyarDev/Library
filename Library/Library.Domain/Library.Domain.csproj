@@ -24,8 +24,4 @@
     <ProjectReference Include="..\Library.Commen\Library.Common.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="FluentApi\" />
-  </ItemGroup>
-
 </Project>

@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <Folder Include="Enum\" />
+    <Folder Include="Extention\" />
   </ItemGroup>
 
   <ItemGroup>

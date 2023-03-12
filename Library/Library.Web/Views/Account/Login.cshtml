@@ -1,5 +1,12 @@
-﻿@{
+﻿@model Library.Service.DTOs.Account.LoginUserDTO
+@{
     Layout = "_SimpleLayout";
+}
+@section Script
+{
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+
 }
 <div class="page-wrapper">
     <div class="container-fluid p-0">
@@ -9,24 +16,24 @@
                 <div class="col-md-12">
                     <div class="auth-innerright">
                         <div class="authentication-box">
-                            <div class="text-center"><img src="../assets/images/endless-logo.png" alt=""></div>
+                            <div class="text-center"><img src="~/assets/images/endless-logo.png" alt=""></div>
                             <div class="card mt-4">
                                 <div class="card-body">
                                     <div class="text-center">
                                         <h4>ورود</h4>
-                                        <h6>نام کاربری و رمز عبور خود را وارد کنید </h6>
+                                        <h6>شماره تلفن و رمز عبور خود را وارد کنید </h6>
                                     </div>
-                                    <form class="theme-form">
+                                    <form class="theme-form" asp-controller="Account" asp-action="Login" method="post">
                                         <div class="form-group">
-                                            <label class="col-form-label pt-0">نام شما</label>
-                                            <input class="form-control" type="text" required="">
+                                            <label class="col-form-label pt-0">تلفن همراه</label>
+                                            <input asp-for="Mobile" class="form-control" type="text" required="">
                                         </div>
                                         <div class="form-group">
                                             <label class="col-form-label">رمز عبور</label>
-                                            <input class="form-control" type="password" required="">
+                                            <input asp-for="Password" class="form-control" type="password" required="">
                                         </div>
                                         <div class="checkbox p-0">
-                                            <input id="checkbox1" type="checkbox">
+                                            <input asp-for="RememberMe" id="checkbox1" type="checkbox">
                                             <label for="checkbox1">مرا به خاطر بسپار</label>
                                         </div>
                                         <div class="form-group form-row mt-3 mb-0">

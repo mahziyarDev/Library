@@ -19,7 +19,8 @@ namespace Library.Web.Controllers.Api
         [HttpGet]
         public async Task<IActionResult> GetUsers()
         {
-            return Ok(await _userService.GetUser());
+            var data = (await _userService.GetUser()).Data;
+            return Ok(data);
         }
 
         [HttpPut]

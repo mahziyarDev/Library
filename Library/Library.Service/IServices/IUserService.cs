@@ -16,7 +16,8 @@ public interface IUserService:IAsyncDisposable
 
     #region RegisterAndLogin
 
-    Task<OperationResult> RegisterUser(RegisterUserDTO registerUserDto);
+    Task<OperationResult<List<string>>> RegisterUser(RegisterUserDTO registerUserDto);
+    Task<OperationResult<string>> Login(string phoneNumber);
 
     #endregion
 }

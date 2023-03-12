@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\Library.Web.csproj": {}
+    "C:\\Users\\Mahziyar\\Desktop\\Git\\Library\\Library\\Library.Web\\Library.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Commen\\Library.Common.csproj": {
+    "C:\\Users\\Mahziyar\\Desktop\\Git\\Library\\Library\\Library.Commen\\Library.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Commen\\Library.Common.csproj",
+        "projectUniqueName": "C:\\Users\\Mahziyar\\Desktop\\Git\\Library\\Library\\Library.Commen\\Library.Common.csproj",
         "projectName": "Library.Common",
-        "projectPath": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Commen\\Library.Common.csproj",
+        "projectPath": "C:\\Users\\Mahziyar\\Desktop\\Git\\Library\\Library\\Library.Commen\\Library.Common.csproj",
         "packagesPath": "C:\\Users\\Mahziyar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Commen\\obj\\",
+        "outputPath": "C:\\Users\\Mahziyar\\Desktop\\Git\\Library\\Library\\Library.Commen\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mahziyar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,14 +82,14 @@
         }
       }
     },
-    "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Domain\\Library.Domain.csproj": {
+    "C:\\Users\\Mahziyar\\Desktop\\Git\\Library\\Library\\Library.Domain\\Library.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Domain\\Library.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Mahziyar\\Desktop\\Git\\Library\\Library\\Library.Domain\\Library.Domain.csproj",
         "projectName": "Library.Domain",
-        "projectPath": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Domain\\Library.Domain.csproj",
+        "projectPath": "C:\\Users\\Mahziyar\\Desktop\\Git\\Library\\Library\\Library.Domain\\Library.Domain.csproj",
         "packagesPath": "C:\\Users\\Mahziyar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Mahziyar\\Desktop\\Git\\Library\\Library\\Library.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mahziyar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -107,8 +107,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Commen\\Library.Common.csproj": {
-                "projectPath": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Commen\\Library.Common.csproj"
+              "C:\\Users\\Mahziyar\\Desktop\\Git\\Library\\Library\\Library.Commen\\Library.Common.csproj": {
+                "projectPath": "C:\\Users\\Mahziyar\\Desktop\\Git\\Library\\Library\\Library.Commen\\Library.Common.csproj"
               }
             }
           }
@@ -168,14 +168,14 @@
         }
       }
     },
-    "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Infrastructure\\Library.IOC.csproj": {
+    "C:\\Users\\Mahziyar\\Desktop\\Git\\Library\\Library\\Library.Infrastructure\\Library.IOC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Infrastructure\\Library.IOC.csproj",
+        "projectUniqueName": "C:\\Users\\Mahziyar\\Desktop\\Git\\Library\\Library\\Library.Infrastructure\\Library.IOC.csproj",
         "projectName": "Library.IOC",
-        "projectPath": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Infrastructure\\Library.IOC.csproj",
+        "projectPath": "C:\\Users\\Mahziyar\\Desktop\\Git\\Library\\Library\\Library.Infrastructure\\Library.IOC.csproj",
         "packagesPath": "C:\\Users\\Mahziyar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Mahziyar\\Desktop\\Git\\Library\\Library\\Library.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mahziyar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -193,8 +193,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Service\\Library.Service.csproj": {
-                "projectPath": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Service\\Library.Service.csproj"
+              "C:\\Users\\Mahziyar\\Desktop\\Git\\Library\\Library\\Library.Service\\Library.Service.csproj": {
+                "projectPath": "C:\\Users\\Mahziyar\\Desktop\\Git\\Library\\Library\\Library.Service\\Library.Service.csproj"
               }
             }
           }
@@ -250,14 +250,14 @@
         }
       }
     },
-    "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Service\\Library.Service.csproj": {
+    "C:\\Users\\Mahziyar\\Desktop\\Git\\Library\\Library\\Library.Service\\Library.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Service\\Library.Service.csproj",
+        "projectUniqueName": "C:\\Users\\Mahziyar\\Desktop\\Git\\Library\\Library\\Library.Service\\Library.Service.csproj",
         "projectName": "Library.Service",
-        "projectPath": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Service\\Library.Service.csproj",
+        "projectPath": "C:\\Users\\Mahziyar\\Desktop\\Git\\Library\\Library\\Library.Service\\Library.Service.csproj",
         "packagesPath": "C:\\Users\\Mahziyar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Service\\obj\\",
+        "outputPath": "C:\\Users\\Mahziyar\\Desktop\\Git\\Library\\Library\\Library.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mahziyar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -275,11 +275,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Commen\\Library.Common.csproj": {
-                "projectPath": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Commen\\Library.Common.csproj"
+              "C:\\Users\\Mahziyar\\Desktop\\Git\\Library\\Library\\Library.Commen\\Library.Common.csproj": {
+                "projectPath": "C:\\Users\\Mahziyar\\Desktop\\Git\\Library\\Library\\Library.Commen\\Library.Common.csproj"
               },
-              "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Domain\\Library.Domain.csproj": {
-                "projectPath": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Domain\\Library.Domain.csproj"
+              "C:\\Users\\Mahziyar\\Desktop\\Git\\Library\\Library\\Library.Domain\\Library.Domain.csproj": {
+                "projectPath": "C:\\Users\\Mahziyar\\Desktop\\Git\\Library\\Library\\Library.Domain\\Library.Domain.csproj"
               }
             }
           }
@@ -335,14 +335,14 @@
         }
       }
     },
-    "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\Library.Web.csproj": {
+    "C:\\Users\\Mahziyar\\Desktop\\Git\\Library\\Library\\Library.Web\\Library.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\Library.Web.csproj",
+        "projectUniqueName": "C:\\Users\\Mahziyar\\Desktop\\Git\\Library\\Library\\Library.Web\\Library.Web.csproj",
         "projectName": "Library.Web",
-        "projectPath": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\Library.Web.csproj",
+        "projectPath": "C:\\Users\\Mahziyar\\Desktop\\Git\\Library\\Library\\Library.Web\\Library.Web.csproj",
         "packagesPath": "C:\\Users\\Mahziyar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Web\\obj\\",
+        "outputPath": "C:\\Users\\Mahziyar\\Desktop\\Git\\Library\\Library\\Library.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mahziyar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -360,11 +360,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Domain\\Library.Domain.csproj": {
-                "projectPath": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Domain\\Library.Domain.csproj"
+              "C:\\Users\\Mahziyar\\Desktop\\Git\\Library\\Library\\Library.Domain\\Library.Domain.csproj": {
+                "projectPath": "C:\\Users\\Mahziyar\\Desktop\\Git\\Library\\Library\\Library.Domain\\Library.Domain.csproj"
               },
-              "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Infrastructure\\Library.IOC.csproj": {
-                "projectPath": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Infrastructure\\Library.IOC.csproj"
+              "C:\\Users\\Mahziyar\\Desktop\\Git\\Library\\Library\\Library.Infrastructure\\Library.IOC.csproj": {
+                "projectPath": "C:\\Users\\Mahziyar\\Desktop\\Git\\Library\\Library\\Library.Infrastructure\\Library.IOC.csproj"
               }
             }
           }

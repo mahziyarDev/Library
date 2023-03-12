@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
@@ -20,8 +20,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="DTOs\Account\" />
-    <Folder Include="IServices\" />
+    <Folder Include="DTOs\Admin\Book\" />
+    <Folder Include="DTOs\Admin\Category\" />
+    <Folder Include="DTOs\Admin\Borrowed\" />
     <Folder Include="Services\" />
   </ItemGroup>
 

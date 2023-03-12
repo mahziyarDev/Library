@@ -2325,11 +2325,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Service\\Library.Service.csproj",
+      "projectUniqueName": "C:\\Users\\Mahziyar\\Desktop\\Git\\Library\\Library\\Library.Service\\Library.Service.csproj",
       "projectName": "Library.Service",
-      "projectPath": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Service\\Library.Service.csproj",
+      "projectPath": "C:\\Users\\Mahziyar\\Desktop\\Git\\Library\\Library\\Library.Service\\Library.Service.csproj",
       "packagesPath": "C:\\Users\\Mahziyar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Service\\obj\\",
+      "outputPath": "C:\\Users\\Mahziyar\\Desktop\\Git\\Library\\Library\\Library.Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mahziyar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2347,11 +2347,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Commen\\Library.Common.csproj": {
-              "projectPath": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Commen\\Library.Common.csproj"
+            "C:\\Users\\Mahziyar\\Desktop\\Git\\Library\\Library\\Library.Commen\\Library.Common.csproj": {
+              "projectPath": "C:\\Users\\Mahziyar\\Desktop\\Git\\Library\\Library\\Library.Commen\\Library.Common.csproj"
             },
-            "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Domain\\Library.Domain.csproj": {
-              "projectPath": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Domain\\Library.Domain.csproj"
+            "C:\\Users\\Mahziyar\\Desktop\\Git\\Library\\Library\\Library.Domain\\Library.Domain.csproj": {
+              "projectPath": "C:\\Users\\Mahziyar\\Desktop\\Git\\Library\\Library\\Library.Domain\\Library.Domain.csproj"
             }
           }
         }

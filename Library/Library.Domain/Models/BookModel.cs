@@ -13,4 +13,7 @@ public class BookModel : BaseModel
     [Required]
     public bookStatus Status { get; set; }
 
+    public CategoryModel Category { get; set; }
+    public Guid CategoryId { get; set; }
+
 }

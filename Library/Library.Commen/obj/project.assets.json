@@ -1019,11 +1019,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Commen\\Library.Common.csproj",
+      "projectUniqueName": "C:\\Users\\Mahziyar\\Desktop\\Git\\Library\\Library\\Library.Commen\\Library.Common.csproj",
       "projectName": "Library.Common",
-      "projectPath": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Commen\\Library.Common.csproj",
+      "projectPath": "C:\\Users\\Mahziyar\\Desktop\\Git\\Library\\Library\\Library.Commen\\Library.Common.csproj",
       "packagesPath": "C:\\Users\\Mahziyar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mahziyar\\Desktop\\project\\Library\\Library.Commen\\obj\\",
+      "outputPath": "C:\\Users\\Mahziyar\\Desktop\\Git\\Library\\Library\\Library.Commen\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mahziyar\\AppData\\Roaming\\NuGet\\NuGet.Config",
